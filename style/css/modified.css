@@ -1,0 +1,9 @@
+a{
+    font-size: 1.5rem;
+    color: currentColor;
+    text-decoration: none;
+}
+
+.anchor-dark > a{
+    color: black;
+}
